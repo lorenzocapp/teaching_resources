@@ -1,4 +1,4 @@
-"","recency","frequency","monetary","time","gender","income","class","daily_steps","annual_checkups"
+"","recency","frequency","monetary","time","gender","income","donor","daily_steps","annual_checkups"
 "1",2,50,12500,98,"M",39309.2563601251,1,6159,6
 "2",0,13,3250,28,"M",42554.5475539402,1,6655,4
 "3",1,16,4000,35,"M",46763.5359936265,1,9338,5
